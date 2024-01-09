@@ -1,17 +1,22 @@
-Free Commons License
+Licencia de Comunes Libres (LCL) v1
 
-   v1.0
+Condiciones Generales:
 
-   Use and Modify: The Software is provided freely for any purpose.
+    Uso y Modificación: El software, en adelante denominado "el Software," se proporciona de forma gratuita para cualquier propósito. Puedes utilizar y modificar el Software según tus necesidades y objetivos.
 
-    Free Forking: You can fork and modify the Software.
+    Libre Forking: Tienes la libertad de realizar un fork del Software, permitiéndote crear versiones modificadas y derivadas. Este derecho te otorga flexibilidad para adaptar el Software a tus necesidades específicas.
 
-    Credit on Fork: Provide credit to the original creator when forking.
+    Créditos en Forks: Si decides realizar un fork o utilizar partes del Software, debes proporcionar créditos adecuados. Esto implica reconocer al creador original y proporcionar un enlace al código fuente original.
 
-    No Closed Forks: Forks cannot be distributed as closed-source.
+    No Forks de Código Cerrado: No se permite distribuir forks del Software como aplicaciones de código cerrado o bajo cualquier licencia propietaria. La naturaleza del Software es mantenerse abierto y accesible para la comunidad.
 
-    Free Distribution with Credit: Any distribution must be free and credit the original Software and its creator.
+    Distribución Gratuita con Créditos: Cualquier distribución del Software o sus derivados debe ser gratuita para el público en general. Además, debes incluir un aviso prominente que otorgue créditos al Software original y a su creador.
 
-    Patenting and Forks: The Software may be patented, but substantial changes are required for forked versions.
+    Patentes y Forks: El Software puede ser patentado. Sin embargo, en el caso de realizar un fork, se requieren cambios sustanciales para garantizar que la versión bifurcada sea significativamente diferente del Software original.
 
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Renuncia de Garantías y Responsabilidad:
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL," SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, DERIVADA DE, O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS NEGOCIOS EN EL SOFTWARE.
+
+
+Última Actualización: 9 de enero de 2024
