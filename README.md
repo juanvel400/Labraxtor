@@ -1,2 +1,2 @@
 # Labraxtor
-A simple programming language with its compiler
+Un lenguaje simple desarollado en python 
