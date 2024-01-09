@@ -8,7 +8,6 @@ class LabraxtorInterpreter:
             self.execute(line.strip())
 
     def execute(self, line):
-        # Check if the line ends with a comma
         if line.endswith(','):
             if line.startswith('pt'):
                 self.handle_print(line)
@@ -22,24 +21,17 @@ class LabraxtorInterpreter:
                 self.handle_define(line)
             elif line.startswith('sl'):
                 self.handle_line_break()
+       
 
     def handle_print(self, line):
-        # Split the line using the 'pt' keyword and remove any leading/trailing spaces
-        parts = line[2:].strip().split('\'')
-        
-        # Check if there are enough parts in the list
+        parts = line.split('\'')
         if len(parts) >= 2:
             text = parts[1]
-            
-            # Replace #variable with its value if exists
             for var_name, var_value in self.variables.items():
                 text = text.replace(f'#{var_name}', str(var_value))
-            
             print(text, end=' ')
         else:
-            # Handle the case where there are not enough parts
-            print ("Error")
-
+            print("Error: Invalid print statement format")
 
     def handle_stop(self):
         input("Press Enter to continue...")
